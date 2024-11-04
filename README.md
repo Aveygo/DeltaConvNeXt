@@ -17,10 +17,6 @@ We can then use the following formula to extract matching values:
  
 $f(x_{\text{left}}, x_{\text{right}}) = ( x_{\text{left}} + x_{\text{right}} ) \cdot \left( \frac{2}{1 + e^{( x_{\text{left}} - x_{\text{right}} )^2 \cdot \lambda}} \right)$
 
-We can deduce two important features:
-1. What is the difference between the signals?
-2. How different are they?
-
 ## Example
 
 <table>
