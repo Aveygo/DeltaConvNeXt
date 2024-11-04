@@ -4,7 +4,7 @@
   <img src="function.png" width=300px;>
 </p>
 <p align="center">
-  An experimental CNN-based block inspited by differential transformers 
+  An experimental CNN-based block inspired by differential transformers 
 </p>
 
 ## What it does
